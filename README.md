@@ -1,2 +1,2 @@
 # uglyNumber
-PHP, HTML, JS to find if a givin number is ugly or not.
+PHP, HTML, JS to find if a given number is ugly or not.
